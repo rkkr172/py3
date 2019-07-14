@@ -1,5 +1,5 @@
 ## Python 3 Notes
-[NbViewer](https://nbviewer.jupyter.org/github/rkkr172/py2/tree/master/)
+[NbViewer](https://nbviewer.jupyter.org/github/rkkr172/py3/tree/master/)
 
 # Complete-Python-3-Bootcamp
 Course Files for Complete Python 3 Bootcamp Course on Udemy
